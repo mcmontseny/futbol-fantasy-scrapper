@@ -1,0 +1,28 @@
+{
+  "name": "futbol-fantasy-scrapper",
+  "version": "1.0.0",
+  "description": "Futbol Fantasy Scrapper",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmontseny/futbol-fantasy-scrapper.git"
+  },
+  "keywords": [
+    "futbol",
+    "futbol-fantasy",
+    "scrapper"
+  ],
+  "author": "Marc CM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcmontseny/futbol-fantasy-scrapper/issues"
+  },
+  "homepage": "https://github.com/mcmontseny/futbol-fantasy-scrapper#readme",
+  "dependencies": {
+    "puppeteer": "^19.7.4"
+  }
+}
